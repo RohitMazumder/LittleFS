@@ -1,0 +1,2 @@
+1. Introduce logging
+2. Report disk usage stats
